@@ -2,7 +2,7 @@
  
 A modern implementation of the classic Tic-tac-toe game built with React.
 
-## 🎮 Features
+## 🎮 Features 
  
 - Interactive game board
 - Player turn tracking
